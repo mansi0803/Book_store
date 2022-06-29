@@ -1,10 +1,4 @@
-#home{
 
-}
-
-#services{
-
-}
 .services-box
 {
  flex-direction: column;
@@ -15,6 +9,3 @@
    overflow: hidden; 
 }
 
-#content{
-
-}
